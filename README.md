@@ -446,3 +446,8 @@ This project was created as a code assessment.
 ## Support
 
 For questions or support, please email: <aldringuasa@gmail.com> or contact in Indeed.
+
+## Preview
+<img width="821" height="683" alt="image" src="https://github.com/user-attachments/assets/144c9afd-df39-4054-a46d-0e3fa0a63aaa" />
+<img width="821" height="895" alt="image" src="https://github.com/user-attachments/assets/31e23ffd-266b-4fe8-9af8-6caf2005c37b" />
+
